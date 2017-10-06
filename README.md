@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome folks to Litteratti Pages
 
-You can use the [editor on GitHub](https://github.com/litteratti/PoeTries/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Take a breath from coding, relax and read some poetries!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Here it's me
 
-### Markdown
+My name is rabolas, but people call me rabo.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Every bio - as it should be - containsa series of personal information.
+In preserving this dubious convention, here are mine:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/litteratti/PoeTries/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ - I walked through endless stretches of bluebells blooming in Oxfordshire and with ducks along the Thames. Maybe it's trivial but for me it's a good memory
+- I was in Kensington, not London but Cape Town, where white people are 0.3% of the population. I felt observed, but I was in good company
+- I like numbers. Isn't funny for someone who thinks to be a poet and a writer?
+- At a park in Montreal a squirrel stole my lunch
+- I'm used to read newspapers article from the end to the beginning
+- I like listening people and I like hiding myself into the things I write
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having troubles with all this mess? Check out my blog [Litteratti](http://litteratti.wordpress.com/) or [contact me] at rabolas@gmcil.com and I’ll help you sort it out.
