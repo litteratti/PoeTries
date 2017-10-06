@@ -1,6 +1,6 @@
 ## Welcome folks to Litteratti Pages
 
-Take a breath from coding, relax and read some poetries!
+## Take a breath from coding, relax and read some poetries!
 
 ### Here it's me
 
