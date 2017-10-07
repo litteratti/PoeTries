@@ -2,7 +2,7 @@
 
 ## Take a breath from coding, relax and read some poeTries!
 
-take a breath from coding, relax and read some poetries.
+Take a breath from coding, relax and read some poetries.
 Making poetries is the new making code! You need to be:
 - essential
 - versatile

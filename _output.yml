@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 bookdown::gitbook:
   css: style.css
   config:
@@ -17,23 +16,3 @@ bookdown::pdf_book:
   keep_tex: yes
 bookdown::epub_book: default
 # bookdown::kindlegen(epub = 'docs/PoeTries.epub', exec = 'C:/KindleGen') # run on the R console
-=======
-bookdown::gitbook:
-  css: style.css
-  config:
-    toc:
-      collapse: section
-      before: |
-        <li><a href="./">PoeTries: I tentativi di Poe</a></li>
-      after: |
-        <li><a href="https://github.com/litteratti/PoeTries" target="blank">Published with bookdown</a></li>
-    download: ["pdf", "epub"]
-bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: yes
-bookdown::epub_book: default
-# bookdown::kindlegen(epub = 'docs/PoeTries.epub', exec = 'C:/KindleGen') # run on the R console
->>>>>>> 9dfccf0ec243aff57aee6877b5eaf200510f84dd
