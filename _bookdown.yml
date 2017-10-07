@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 book_filename: "PoeTries.Rmd"
 language:
   ui:
     chapter_name: " "
 output_dir: "docs"
-=======
-book_filename: "PoeTries.Rmd"
-language:
-  ui:
-    chapter_name: "PoeTry-Poesia"
-output_dir: "docs"
->>>>>>> 751db5c7ae7b64226626734aefc7ef1ba7e940c2
