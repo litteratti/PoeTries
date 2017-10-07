@@ -1,0 +1,44 @@
+--- 
+title: "PoeTries: I tentativi di Poe"
+author: "Alan Poe"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: litteratti/PoeTries
+description: "Take a break. Take a breath. And read some PoeTries: I tentativi di Poe"
+---
+
+# Making poetries is the new making code!
+
+This is the first book of poetries here on **GitHub** written in **Markdown**. 
+
+So, please, take a breath from coding, relax and read some poetries.
+Making poetries is the new making code! You need to be:
+- essential
+- versatile
+- elegant
+
+<!--chapter:end:index.Rmd-->
+
+# Reflections {#reflections}
+
+
+Shattered mirror reflections 
+seeded down the street along the night.
+Tall trees branches bare
+beneath my feet run clouds.
+And like a flower that opens the night
+a swatch of sky in a ray of sunshine:
+a sketch of light melts down the street
+turns into a shadow, a Flash
+of elsewhere. And I, who are just a reflection
+in this nothing copyright, another
+myself. An image skewed.
+A pebble thrown among puddles scattered
+my circulars horizons.
+
+<!--chapter:end:01-riflessioni.Rmd-->

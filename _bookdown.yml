@@ -1,0 +1,5 @@
+book_filename: "PoeTries"
+language:
+  ui:
+    chapter_name: "PoeTry-Poesia"
+output_dir: "docs"

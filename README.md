@@ -1,6 +1,6 @@
 ## Welcome folks to Litteratti Pages
 
-## Take a breath from coding, relax and read some poetries!
+## Take a breath from coding, relax and read some poeTries!
 
 ### Here it's me
 
@@ -18,4 +18,4 @@ In preserving this dubious convention, here are mine:
 
 ### Support or Contact
 
-Having troubles with all this mess? Check out my blog [Litteratti](http://litteratti.wordpress.com/) or [contact me] at rabolas@gmcil.com and I’ll help you sort it out.
+Having troubles with all this mess? Check out my blog [Litteratti](http://litteratti.wordpress.com/) or [contact me] at rabolas at gmail.com and I will help you sort it out.
