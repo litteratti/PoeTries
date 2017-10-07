@@ -8,6 +8,7 @@ documentclass: book
 #bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
+url: https\://litteratti.github.io/PoeTries/
 github-repo: litteratti/PoeTries
 description: "Take a break. Take a breath. And read some PoeTries: I tentativi di Poe"
 ---
