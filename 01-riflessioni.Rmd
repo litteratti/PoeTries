@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Reflections {#reflections}
 
 
@@ -16,3 +17,23 @@ A pebble thrown among puddles scattered
 my circulars horizons.
 
 
+=======
+# Reflections {#reflections}
+
+
+Shattered mirror reflections 
+seeded down the street along the night.
+Tall trees branches bare
+beneath my feet run clouds.
+And like a flower that opens the night
+a swatch of sky in a ray of sunshine:
+a sketch of light melts down the street
+turns into a shadow, a Flash
+of elsewhere. And I, who are just a reflection
+in this nothing copyright, another
+myself. An image skewed.
+A pebble thrown among puddles scattered
+my circulars horizons.
+
+
+>>>>>>> 751db5c7ae7b64226626734aefc7ef1ba7e940c2

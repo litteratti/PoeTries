@@ -1,3 +1,27 @@
+<<<<<<< HEAD
+--- 
+title: "PoeTries: I tentativi di Poe"
+author: "Alan Poe"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+#bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: litteratti/PoeTries
+description: "Take a break. Take a breath. And read some PoeTries: I tentativi di Poe"
+---
+
+# Making poetries is the new making code!
+
+This is the first book of poetries here on **GitHub** written in **Markdown**. 
+
+So, please, take a breath from coding, relax and read some poetries.
+Making poetries is the new making code! You need to be:
+- essential
+- versatile
+=======
 --- 
 title: "PoeTries: I tentativi di Poe"
 author: "Alan Poe"
@@ -20,4 +44,5 @@ So, please, take a breath from coding, relax and read some poetries.
 Making poetries is the new making code! You need to be:
 - essential
 - versatile
+>>>>>>> 751db5c7ae7b64226626734aefc7ef1ba7e940c2
 - elegant
