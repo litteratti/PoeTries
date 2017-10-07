@@ -1,9 +1,14 @@
-## Welcome folks to Litteratti Pages
 # Welcome folks to Litteratti Pages
 
 ## Take a breath from coding, relax and read some poeTries!
 
-### Here it's me
+take a breath from coding, relax and read some poetries.
+Making poetries is the new making code! You need to be:
+- essential
+- versatile
+- elegant
+
+## Here it's me
 
 My name is rabolas, but people call me rabo.
 
@@ -17,6 +22,6 @@ In preserving this dubious convention, here are mine:
 - I'm used to read newspapers article from the end to the beginning
 - I like listening people and I like hiding myself into the things I write
 
-### Support or Contact
+## Support or Contact
 
 Having troubles with all this mess? Check out my blog [Litteratti](http://litteratti.wordpress.com/) or [contact me] at rabolas at gmail.com and I will help you sort it out.
