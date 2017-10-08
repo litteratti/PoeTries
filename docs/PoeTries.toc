@@ -1,2 +1,5 @@
-\contentsline {chapter}{\numberline {1}Making poetries is the new making code!}{5}{chapter.1}
-\contentsline {chapter}{\numberline {2}Reflections}{7}{chapter.2}
+\contentsline {chapter}{Making poetries is the new making code!}{5}{chapter*.2}
+\contentsline {section}{Here it's me}{5}{section*.3}
+\contentsline {section}{Support or Contact}{5}{section*.4}
+\contentsline {chapter}{\numberline {1}Reflections}{7}{chapter.1}
+\contentsline {section}{Riflessioni (the Italian original version)}{7}{section*.5}
